@@ -10,6 +10,7 @@ using SeleniumCSharpTutorials.BaseClass;
 
 namespace SeleniumCSharpTutorials
 {
+    //comment added
     [TestFixture]
     public class TestClass : BaseTest
     {
